@@ -1,0 +1,17 @@
+About NOUN Automated Counselling System
+
+Due to the great social importance of formal education especially in this modern complex industrialised 
+societies, most individuals and nations of the world have invested greatly in education, so as to give 
+every of its citizen the opportunity to go to school and contribute to the socio-economic development of 
+their Nation. 
+
+However, most students have difficulties with career choices, and this has resulted to high rate of misguided 
+career choices, lack of motivation/interest in programmes chosen, drop-outs in tertiary institutions, etc. 
+
+Base on the afore mention, an Automated/Online-Career/Programme Counselling is needed to provide career guidance
+to candidates on the suitability or otherwise of their chosen career. Online career counselling system has emerged 
+as a viable alternative to conventional physical face-to-face counseling system.
+
+This system would be an alternative to the conventional face-to-face interaction with the human student’s 
+counsellor. It would be able to provide answers and guidance to students’ query especially in the areas of 
+seeking for guidance in making good academic programme choice.
